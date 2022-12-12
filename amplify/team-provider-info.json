@@ -14,6 +14,12 @@
     "categories": {
       "api": {
         "testamplifygatsby": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1gmk3o2fnn1xe",
+          "type": "cicd"
+        }
       }
     }
   }
